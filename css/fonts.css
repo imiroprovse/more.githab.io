@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'futurafuturisc';
+    src: url('../fonts/futurafuturisc.eot');
+    src: url('../fonts/futurafuturisc.eot') format('embedded-opentype'),
+         url('../fonts/futurafuturisc.woff2') format('woff2'),
+         url('../fonts/futurafuturisc.woff') format('woff'),
+         url('../fonts/futurafuturisc.ttf') format('truetype'),
+         url('../fonts/futurafuturisc.svg#futurafuturisc') format('svg');
+}
+@font-face {
+    font-family: 'futurafuturiscbold';
+    src: url('../fonts/futurafuturiscbold.eot');
+    src: url('../fonts/futurafuturiscbold.eot') format('embedded-opentype'),
+         url('../fonts/futurafuturiscbold.woff2') format('woff2'),
+         url('../fonts/futurafuturiscbold.woff') format('woff'),
+         url('../fonts/futurafuturiscbold.ttf') format('truetype'),
+         url('../fonts/futurafuturiscbold.svg#futurafuturiscbold') format('svg');
+}
+@font-face {
+    font-family: 'HappyFoxCondensed';
+    src: url('../fonts/HappyFoxCondensed.eot');
+    src: url('../fonts/HappyFoxCondensed.eot') format('embedded-opentype'),
+         url('../fonts/HappyFoxCondensed.woff2') format('woff2'),
+         url('../fonts/HappyFoxCondensed.woff') format('woff'),
+         url('../fonts/HappyFoxCondensed.ttf') format('truetype'),
+         url('../fonts/HappyFoxCondensed.svg#HappyFoxCondensed') format('svg');
+}
+@font-face {
+    font-family: 'PTFuturaFuturisMediumCyrillic';
+    src: url('../fonts/PTFuturaFuturisMediumCyrillic.eot');
+    src: url('../fonts/PTFuturaFuturisMediumCyrillic.eot') format('embedded-opentype'),
+         url('../fonts/PTFuturaFuturisMediumCyrillic.woff2') format('woff2'),
+         url('../fonts/PTFuturaFuturisMediumCyrillic.woff') format('woff'),
+         url('../fonts/PTFuturaFuturisMediumCyrillic.ttf') format('truetype'),
+         url('../fonts/PTFuturaFuturisMediumCyrillic.svg#PTFuturaFuturisMediumCyrillic') format('svg');
+}
+@font-face {
+    font-family: 'FuturaNewLight';
+    src: url('../fonts/FuturaNewLight.eot');
+    src: url('../fonts/FuturaNewLight.eot') format('embedded-opentype'),
+         url('../fonts/FuturaNewLight.woff2') format('woff2'),
+         url('../fonts/FuturaNewLight.woff') format('woff'),
+         url('../fonts/FuturaNewLight.ttf') format('truetype'),
+         url('../fonts/FuturaNewLight.svg#FuturaNewLight') format('svg');
+}
+@font-face {
+    font-family: 'FuturaNewHeavy';
+    src: url('../fonts/FuturaNewHeavy.eot');
+    src: url('../fonts/FuturaNewHeavy.eot') format('embedded-opentype'),
+         url('../fonts/FuturaNewHeavy.woff2') format('woff2'),
+         url('../fonts/FuturaNewHeavy.woff') format('woff'),
+         url('../fonts/FuturaNewHeavy.ttf') format('truetype'),
+         url('../fonts/FuturaNewHeavy.svg#FuturaNewHeavy') format('svg');
+}
+@font-face {
+    font-family: 'FuturaNewDemi';
+    src: url('../fonts/FuturaNewDemi.eot');
+    src: url('../fonts/FuturaNewDemi.eot') format('embedded-opentype'),
+         url('../fonts/FuturaNewDemi.woff2') format('woff2'),
+         url('../fonts/FuturaNewDemi.woff') format('woff'),
+         url('../fonts/FuturaNewDemi.ttf') format('truetype'),
+         url('../fonts/FuturaNewDemi.svg#FuturaNewDemi') format('svg');
+}
